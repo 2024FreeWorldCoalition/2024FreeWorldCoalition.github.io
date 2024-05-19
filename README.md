@@ -29,6 +29,6 @@ _The 2024 Free World Coalition_
 
 ### What can you do?
 
-[Urge Yale to Drop the Charges](https://actionnetwork.org/letters/yale-drop-the-charges-divest-from-weapons/)<br>
-[Call for Divestment](https://freepalestine.tools/universities)<br>
-[Students and Alums: No Donations Until Divestment!](https://bit.ly/divest-yale)
+<a href="https://actionnetwork.org/letters/yale-drop-the-charges-divest-from-weapons/" target="_blank" rel="noopener">Urge Yale to Drop the Charges</a><br>
+<a href="https://freepalestine.tools/universities" target="_blank" rel="noopener">Call for Divestment</a><br>
+<a href="https://bit.ly/divest-yale" target="_blank" rel="noopener">Students and Alums: No Donations Until Divestment</a><br>
